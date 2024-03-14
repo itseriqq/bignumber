@@ -3,9 +3,7 @@
 BigNumber
 -
 Erick Augusto Silva Pereira — 11202130310
-
 João Vitor Trindade Oliveira da Costa — 11202130604
-
 Vitor Malavasi Silva — 11202020929
 -
 Universidade Federal do ABC
